@@ -24,7 +24,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/spline_example.png"
       alt="SplineAdjust"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -35,7 +35,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/halftone_example.png"
       alt="Halftone"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -46,7 +46,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/chromatic_example.png"
       alt="Chromatic"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -57,7 +57,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/dither_example.png"
       alt="Dither"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -68,7 +68,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/ascii_example.png"
       alt="Ascii"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -82,7 +82,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/bezier_example.png"
       alt="BezierCurve"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -93,7 +93,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/raycast_example.png"
       alt="Raycast"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -104,7 +104,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/koch_example.png"
       alt="Koch"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
@@ -118,7 +118,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       src="examples/mineCweeper_example.png"
       alt="MineCweeper"
       width="400"
-      height="400"
+      height="300"
       style="object-fit: contain;"
     />
   </div>
