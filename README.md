@@ -23,8 +23,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/spline_example.png"
       alt="SplineAdjust"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -33,8 +34,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/halftone_example.png"
       alt="Halftone"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -43,8 +45,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/chromatic_example.png"
       alt="Chromatic"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -53,8 +56,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/dither_example.png"
       alt="Dither"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -63,8 +67,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/ascii_example.png"
       alt="Ascii"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -76,8 +81,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/bezier_example.png"
       alt="BezierCurve"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -86,8 +92,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/raycast_example.png"
       alt="Raycast"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
   
@@ -96,8 +103,9 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/koch_example.png"
       alt="Koch"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
 
@@ -109,10 +117,12 @@ I’m currently an Information Systems student, passionate about graphics progra
     <img
       src="examples/mineCweeper_example.png"
       alt="MineCweeper"
-      width="300px"
-      style="height:auto;"
+      width="400"
+      height="400"
+      style="object-fit: contain;"
     />
   </div>
+
   
 ---
 
