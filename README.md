@@ -9,10 +9,9 @@ I’m currently an Information Systems student, passionate about graphics progra
 ---
 
 ## 🛠️ Tech Stack
-
-| Back‑End            | Front‑End                     | Languages             | Tools & Platforms           |
-| --------------------| ----------------------------- | --------------------- | --------------------------- |
-| MySQL, MongoDB, REST APIs, Networking     | React, Angular, Flutter, Java Swing    | C, C#, Java, JS, Dart | Git, Maven, Docker, AWS, NetBeans, VS Code, Linux |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,react,nodejs,html,css,mongodb,mysql&perline=6" alt="Tech Stack" /> 
+</div>
 
 ---
 
@@ -20,33 +19,100 @@ I’m currently an Information Systems student, passionate about graphics progra
 
 ### 🎨 Image Manipulation Tools
 - **Spline Color Adjustment Tool**  
-  ![SplineAdjust](images/spline_example.png)
+  <div align="center">
+    <img
+      src="examples/spline_example.png"
+      alt="SplineAdjust"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
 
 - **Halftone**  
-  ![Halftone](images/halftone_example.png)
+  <div align="center">
+    <img
+      src="examples/halftone_example.png"
+      alt="Halftone"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
 
 - **Chromatic**  
-  ![Chromatic](images/chromatic_example.png)
+  <div align="center">
+    <img
+      src="examples/chromatic_example.png"
+      alt="Chromatic"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
 
 - **Dithering Suite**  
-  ![Dither](images/dither_example.png)
+  <div align="center">
+    <img
+      src="examples/dither_example.png"
+      alt="Dither"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
 
 - **ASCII**  
-  ![Ascii](images/ascii_example.png)
+  <div align="center">
+    <img
+      src="examples/ascii_example.png"
+      alt="Ascii"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
+
+---
 
 ### ➿ Graphics & Simulation
 - **Bezier Curve Visualizer**  
-  ![BezierCurve](images/bezier_example.png)
+  <div align="center">
+    <img
+      src="examples/bezier_example.png"
+      alt="BezierCurve"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
 
 - **Raycast Reflection Simulation**  
-  ![Raycast](images/raycast_example.png)
+  <div align="center">
+    <img
+      src="examples/raycast_example.png"
+      alt="Raycast"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
   
 - **Koch Fractal Simulation**  
-  ![Koch](images/koch_example.png)
+  <div align="center">
+    <img
+      src="examples/koch_example.png"
+      alt="Koch"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
+
+---
 
 ### 💣 Classic Games
 - **MineCweeper**  
-  ![MineCweeper](images/mineCweeper_example.png)
+  <div align="center">
+    <img
+      src="examples/mineCweeper_example.png"
+      alt="MineCweeper"
+      width="300px"
+      style="height:auto;"
+    />
+  </div>
   
 ---
 
@@ -67,12 +133,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 
 ## 📫 Connect with Me
 
-[![LinkedIn][linkedin-badge]][linkedin]  
-
-<!-- Badges -->
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin
-
-<!-- Links -->
-[linkedin]: www.linkedin.com/in/pedro-fellipe-cruz-antunes
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-fellipe-cruz-antunes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;
+</div>
 
 ---
