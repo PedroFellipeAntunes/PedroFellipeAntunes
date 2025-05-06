@@ -77,6 +77,6 @@ I’m currently an Information Systems student, passionate about graphics progra
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin
 
 <!-- Links -->
-[linkedin]: https://linkedin.com/in/YOUR_PROFILE
+[linkedin]: www.linkedin.com/in/pedro-fellipe-cruz-antunes
 
 ---
