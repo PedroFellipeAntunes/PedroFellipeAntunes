@@ -33,8 +33,6 @@ I’m currently an Information Systems student, passionate about graphics progra
 
 - **ASCII**  
   ![Ascii](images/ascii_example.png)
-  
----
 
 ### ➿ Graphics & Simulation
 - **Bezier Curve Visualizer**  
@@ -45,8 +43,6 @@ I’m currently an Information Systems student, passionate about graphics progra
   
 - **Koch Fractal Simulation**  
   ![Koch](images/koch_example.png)
-
----
 
 ### 💣 Classic Games
 - **MineCweeper**  
