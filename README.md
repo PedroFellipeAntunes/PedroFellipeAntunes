@@ -10,7 +10,7 @@ I’m currently an Information Systems student, passionate about graphics progra
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,c,cs,ts,js,react,nodejs,html,css,mongodb,mysql&perline=6" alt="Tech Stack" /> 
+  <img src="https://skillicons.dev/icons?i=aws,java,c,cs,ts,js,python,react,nextjs,nodejs,html,css,mongodb,mysql&perline=6" alt="Tech Stack" /> 
 </div>
 
 ---
