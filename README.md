@@ -21,10 +21,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 - **Spline Color Adjustment Tool**  
   <div align="center">
     <img
-      src="examples/spline_example.png"
+      src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png"
       alt="SplineAdjust"
-      width="400"
-      height="300"
+      width="1000"
+      height="250"
       style="object-fit: contain;"
     />
   </div>
@@ -32,10 +32,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 - **Halftone**  
   <div align="center">
     <img
-      src="examples/halftone_example.png"
+      src="examples/pexels-iamikeee-2982149_Halftone.png"
       alt="Halftone"
-      width="400"
-      height="300"
+      width="1000"
+      height="250"
       style="object-fit: contain;"
     />
   </div>
@@ -43,10 +43,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 - **Chromatic**  
   <div align="center">
     <img
-      src="examples/chromatic_example.png"
+      src="examples/pexels-iamikeee-2982149_Chromatic.png"
       alt="Chromatic"
-      width="400"
-      height="300"
+      width="1000"
+      height="250"
       style="object-fit: contain;"
     />
   </div>
@@ -54,10 +54,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 - **Dithering Suite**  
   <div align="center">
     <img
-      src="examples/dither_example.png"
+      src="examples/pexels-iamikeee-2982149_Dither.png"
       alt="Dither"
-      width="400"
-      height="300"
+      width="1000"
+      height="250"
       style="object-fit: contain;"
     />
   </div>
@@ -65,10 +65,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 - **ASCII**  
   <div align="center">
     <img
-      src="examples/ascii_example.png"
+      src="examples/pexels-iamikeee-2982149_ASCII.png"
       alt="Ascii"
-      width="400"
-      height="300"
+      width="1000"
+      height="250"
       style="object-fit: contain;"
     />
   </div>
