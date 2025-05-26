@@ -20,15 +20,15 @@ I’m currently an Information Systems student, passionate about graphics progra
 ### 🎨 Image Manipulation Tools
 | **Spline Color Adjustment Tool** | **Halftone** |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" /> |
+| <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
 
 | **Chromatic Aberration** | **Dithering Suite** |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_Chromatic.png" alt="Chromatic Aberration" /> | <img src="examples/pexels-iamikeee-2982149_Dither.png" alt="Dither" /> |
+| <img src="examples/pexels-iamikeee-2982149_Chromatic.png" alt="Chromatic Aberration" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Dither.png" alt="Dither" width="500" height="150" /> |
 
 | **Color Palette Generator** | **ASCII** |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" /> |
+| <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" width="500" height="150" /> |
 
 ---
 
