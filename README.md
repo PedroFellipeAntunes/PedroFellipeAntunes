@@ -62,6 +62,17 @@ I’m currently an Information Systems student, passionate about graphics progra
     />
   </div>
 
+- **Color Palette Generator**  
+  <div align="center">
+    <img
+      src="examples/pexels-iamikeee-2982149_Palette.png"
+      alt="Dither"
+      width="1000"
+      height="250"
+      style="object-fit: contain;"
+    />
+  </div>
+
 - **ASCII**  
   <div align="center">
     <img
