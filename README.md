@@ -18,71 +18,17 @@ I’m currently an Information Systems student, passionate about graphics progra
 ## 🚀 My Personal Study Projects
 
 ### 🎨 Image Manipulation Tools
-- **Spline Color Adjustment Tool**  
-  <div align="center">
-    <img
-      src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png"
-      alt="SplineAdjust"
-      width="1000"
-      height="250"
-      style="object-fit: contain;"
-    />
-  </div>
+| **Spline Color Adjustment Tool** | **Halftone** |
+| :-: | :-: |
+| <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" /> |
 
-- **Halftone**  
-  <div align="center">
-    <img
-      src="examples/pexels-iamikeee-2982149_Halftone.png"
-      alt="Halftone"
-      width="1000"
-      height="250"
-      style="object-fit: contain;"
-    />
-  </div>
+| **Chromatic Aberration** | **Dithering Suite** |
+| :-: | :-: |
+| <img src="examples/pexels-iamikeee-2982149_Chromatic.png" alt="Chromatic Aberration" /> | <img src="examples/pexels-iamikeee-2982149_Dither.png" alt="Dither" /> |
 
-- **Chromatic**  
-  <div align="center">
-    <img
-      src="examples/pexels-iamikeee-2982149_Chromatic.png"
-      alt="Chromatic"
-      width="1000"
-      height="250"
-      style="object-fit: contain;"
-    />
-  </div>
-
-- **Dithering Suite**  
-  <div align="center">
-    <img
-      src="examples/pexels-iamikeee-2982149_Dither.png"
-      alt="Dither"
-      width="1000"
-      height="250"
-      style="object-fit: contain;"
-    />
-  </div>
-
-- **Color Palette Generator**  
-  <div align="center">
-    <img
-      src="examples/pexels-iamikeee-2982149_Palette.png"
-      alt="Dither"
-      width="1000"
-      height="250"
-      style="object-fit: contain;"
-    />
-  </div>
-
-- **ASCII**  
-  <div align="center">
-    <img
-      src="examples/pexels-iamikeee-2982149_ASCII.png"
-      alt="Ascii"
-      width="1000"
-      height="250"
-      style="object-fit: contain;"
-    />
-  </div>
+| **Color Palette Generator** | **ASCII** |
+| :-: | :-: |
+| <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" /> |
 
 ---
 
