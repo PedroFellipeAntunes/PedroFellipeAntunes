@@ -30,6 +30,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" width="500" height="150" /> |
 
+| **Color Separator RGBA/CMYK** |
+| :-: |
+| <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | 
+
 ---
 
 ### ➿ Graphics & Simulation
