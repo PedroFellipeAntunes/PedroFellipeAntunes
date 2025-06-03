@@ -18,26 +18,26 @@ I’m currently an Information Systems student, passionate about graphics progra
 ## 🚀 My Personal Study Projects
 
 ### 🎨 Image Manipulation Tools
-| **Spline Color Adjustment Tool** | **Halftone** |
+| [**Spline Color Adjustment Tool**](https://github.com/PedroFellipeAntunes/cubic-spline-adjust) | [**Halftone**](https://github.com/PedroFellipeAntunes/halftone-java) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
 
-| **Chromatic Aberration** | **Dithering Suite** |
+| [**Chromatic Aberration**](https://github.com/PedroFellipeAntunes/chromatic-image-effect-java) | [**Dithering Suite**](https://github.com/PedroFellipeAntunes/dithering-java) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_Chromatic.png" alt="Chromatic Aberration" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Dither.png" alt="Dither" width="500" height="150" /> |
 
-| **Color Palette Generator** | **ASCII** |
+| [**Color Palette Generator**](https://github.com/PedroFellipeAntunes/color-palette-java) | [**ASCII**](https://github.com/PedroFellipeAntunes/ascii-image-java) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" width="500" height="150" /> |
 
-| **Color Separator RGBA/CMYK** |
+| [**Color Separator RGBA/CMYK**](https://github.com/PedroFellipeAntunes/color-separator-java) |
 | :-: |
 | <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | 
 
 ---
 
 ### ➿ Graphics & Simulation
-- **Bezier Curve Visualizer**  
+- [**Bezier Curve Visualizer**](https://github.com/PedroFellipeAntunes/bezier-java)  
   <div align="center">
     <img
       src="examples/bezier_example.png"
@@ -48,7 +48,7 @@ I’m currently an Information Systems student, passionate about graphics progra
     />
   </div>
 
-- **Raycast Reflection Simulation**  
+- [**Raycast Reflection Simulation**](https://github.com/PedroFellipeAntunes/raycasting-java)  
   <div align="center">
     <img
       src="examples/raycast_example.png"
@@ -59,7 +59,7 @@ I’m currently an Information Systems student, passionate about graphics progra
     />
   </div>
   
-- **Koch Fractal Simulation**  
+- [**Koch Fractal Simulation**](https://github.com/PedroFellipeAntunes/koch-snowflake-java)  
   <div align="center">
     <img
       src="examples/koch_example.png"
@@ -73,7 +73,7 @@ I’m currently an Information Systems student, passionate about graphics progra
 ---
 
 ### 💣 Classic Games
-- **MineCweeper**  
+- [**MineCweeper**](https://github.com/PedroFellipeAntunes/mineCweeper)  
   <div align="center">
     <img
       src="examples/mineCweeper_example.png"
