@@ -18,9 +18,9 @@ I’m currently an Information Systems student, passionate about graphics progra
 ## 🚀 My Personal Study Projects
 
 ### 🎨 Image Manipulation Tools
-| [**Spline Color Adjustment Tool**](https://github.com/PedroFellipeAntunes/cubic-spline-adjust) | [**Halftone**](https://github.com/PedroFellipeAntunes/halftone-java) |
+| [**Extended Difference of Gaussians (XDoG)**](https://github.com/PedroFellipeAntunes/xdog-java) | [**Halftone**](https://github.com/PedroFellipeAntunes/halftone-java) |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
+| <img src="examples/pexels-iamikeee-2982149_XDoG.png" alt="SplineAdjust" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
 
 | [**Chromatic Aberration**](https://github.com/PedroFellipeAntunes/chromatic-image-effect-java) | [**Dithering Suite**](https://github.com/PedroFellipeAntunes/dithering-java) |
 | :-: | :-: |
@@ -30,9 +30,9 @@ I’m currently an Information Systems student, passionate about graphics progra
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" width="500" height="150" /> |
 
-| [**Color Separator RGBA/CMYK**](https://github.com/PedroFellipeAntunes/color-separator-java) |
-| :-: |
-| <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | 
+| [**Color Separator RGBA/CMYK**](https://github.com/PedroFellipeAntunes/color-separator-java) | [**Spline Color Adjustment Tool**](https://github.com/PedroFellipeAntunes/cubic-spline-adjust) |
+| :-: | :-: |
+| <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> |
 
 ---
 
