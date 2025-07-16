@@ -3,15 +3,48 @@
 I’m currently an Information Systems student, passionate about graphics programming, image processing and software infrastructure. I’m actively seeking an internship opportunity in the IT sector, where I can apply my skills in back‑end, front‑end, and DevOps to real‑world challenges.  
 
 - 🎓 **Current:** Pre-Grad in Information Systems  
-- 💼 **Looking for:** IT Internship in Software Development & Infrastructure  
+- 💼 **Current:** Data Science Intern
+- 💼 **Looking for:** IT Job in Software Development, Infrastructure & Data Science  
 - 🚀 **Interests:** Graphics programming, image processing, networking, and cloud  
 
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,c,cs,ts,js,python,react,nextjs,nodejs,html,css,mongodb,mysql&perline=7" alt="Tech Stack" /> 
-</div>
+
+<table>
+  <tr>
+    <th>☁️ Cloud & Infrastructure</th>
+    <th>🧰 Programming Languages</th>
+    <th>⚙️ Backend Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=azure,aws,nginx&perline=8" alt="Cloud & Infrastructure" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,python,r,dart,php&perline=8" alt="Programming Languages" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,express,dotnet,nodejs&perline=8" alt="Backend Frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <th>🌐 Frontend & Mobile</th>
+    <th>🗄️ Databases</th>
+    <th>🧩 Tools & Design</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&perline=8" alt="Frontend & Mobile" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Databases" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,maven,npm&perline=8" alt="Tools & Design" />
+    </td>
+  </tr>
+</table>
 
 ---
 
