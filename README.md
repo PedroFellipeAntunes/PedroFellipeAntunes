@@ -1,6 +1,6 @@
 ## Hi there, I’m Pedro Fellipe Cruz Antunes
 
-I’m currently an Information Systems student, passionate about graphics programming, image processing and software infrastructure. I’m actively seeking an internship opportunity in the IT sector, where I can apply my skills in back‑end, front‑end, and DevOps to real‑world challenges.  
+I’m currently an Information Systems student, passionate about graphics programming, image processing and software infrastructure. I’m actively seeking an job opportunity in the IT sector, where I can apply my skills in back‑end, front‑end, and DevOps to real‑world challenges.  
 
 - 🎓 **Current:** Pre-Grad in Information Systems  
 - 💼 **Current:** Data Science Intern
