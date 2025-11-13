@@ -67,6 +67,10 @@ I’m currently an Information Systems student, passionate about graphics progra
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> |
 
+| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) |
+| :-: |
+| <img src="examples/pexels-iamikeee-2982149_MedianCut.png" alt="MedianCut" width="500" height="150" /> |
+
 ---
 
 ### ➿ Graphics & Simulation
