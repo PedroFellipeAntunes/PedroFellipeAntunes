@@ -55,6 +55,11 @@ I’m currently an Information Systems student, passionate about graphics progra
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_XDoG.png" alt="SplineAdjust" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
 
+
+| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) |
+| :-: |
+| <img src="examples/pexels-iamikeee-2982149_MedianCut.png" alt="MedianCut" width="500" height="150" /> |
+
 | [**Chromatic Aberration**](https://github.com/PedroFellipeAntunes/chromatic-image-effect-java) | [**Dithering Suite**](https://github.com/PedroFellipeAntunes/dithering-java) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_Chromatic.png" alt="Chromatic Aberration" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Dither.png" alt="Dither" width="500" height="150" /> |
@@ -66,10 +71,6 @@ I’m currently an Information Systems student, passionate about graphics progra
 | [**Color Separator RGBA/CMYK**](https://github.com/PedroFellipeAntunes/color-separator-java) | [**Spline Color Adjustment Tool**](https://github.com/PedroFellipeAntunes/cubic-spline-adjust) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> |
-
-| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) |
-| :-: |
-| <img src="examples/pexels-iamikeee-2982149_MedianCut.png" alt="MedianCut" width="500" height="150" /> |
 
 ---
 
