@@ -53,24 +53,24 @@ I’m currently an Information Systems student, passionate about graphics progra
 ### 🎨 Image Manipulation Tools
 | [**Extended Difference of Gaussians (XDoG)**](https://github.com/PedroFellipeAntunes/xdog-java) | [**Halftone**](https://github.com/PedroFellipeAntunes/halftone-java) |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_XDoG.png" alt="SplineAdjust" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
+| <img src="examples/pexels-iamikeee-2982149_XDoG.png" alt="XDoG" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
 
 
-| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) |
-| :-: |
-| <img src="examples/pexels-iamikeee-2982149_MedianCut.png" alt="MedianCut" width="500" height="150" /> |
+| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) | [**Color Palette Generator**](https://github.com/PedroFellipeAntunes/color-palette-histogram-java) |
+| :-: | :-: |
+| <img src="examples/pexels-iamikeee-2982149_MedianCut.png" alt="Median Cut" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Histogram.png" alt="Color Palette" width="500" height="150" /> |
 
 | [**Chromatic Aberration**](https://github.com/PedroFellipeAntunes/chromatic-image-effect-java) | [**Dithering Suite**](https://github.com/PedroFellipeAntunes/dithering-java) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_Chromatic.png" alt="Chromatic Aberration" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Dither.png" alt="Dither" width="500" height="150" /> |
 
-| [**Color Palette Generator**](https://github.com/PedroFellipeAntunes/color-palette-java) | [**ASCII**](https://github.com/PedroFellipeAntunes/ascii-image-java) |
+| [**OkLab Colors to Image**](https://github.com/PedroFellipeAntunes/oklab-colors-to-image-java) | [**ASCII**](https://github.com/PedroFellipeAntunes/ascii-image-java) |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="Palette" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" width="500" height="150" /> |
+| <img src="examples/pexels-iamikeee-2982149_Palette.png" alt="OkLab Colors" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ASCII.png" alt="Ascii" width="500" height="150" /> |
 
 | [**Color Separator RGBA/CMYK**](https://github.com/PedroFellipeAntunes/color-separator-java) | [**Spline Color Adjustment Tool**](https://github.com/PedroFellipeAntunes/cubic-spline-adjust) |
 | :-: | :-: |
-| <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="ColorSeparator" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="SplineAdjust" width="500" height="150" /> |
+| <img src="examples/pexels-iamikeee-2982149_ColorSeparator.png" alt="Color Separator" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_ColorAdjustSpline.png" alt="Spline Adjust" width="500" height="150" /> |
 
 ---
 
