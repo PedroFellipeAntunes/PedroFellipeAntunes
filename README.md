@@ -56,7 +56,7 @@ I’m currently an Information Systems student, passionate about graphics progra
 | <img src="examples/pexels-iamikeee-2982149_XDoG.png" alt="XDoG" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Halftone.png" alt="Halftone" width="500" height="150" /> |
 
 
-| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) | [**Color Palette Generator**](https://github.com/PedroFellipeAntunes/color-palette-histogram-java) |
+| [**Median Cut**](https://github.com/PedroFellipeAntunes/median-cut-java) | [**Color Palette Generator**](https://github.com/PedroFellipeAntunes/color-palette-generator-java) |
 | :-: | :-: |
 | <img src="examples/pexels-iamikeee-2982149_MedianCut.png" alt="Median Cut" width="500" height="150" /> | <img src="examples/pexels-iamikeee-2982149_Histogram.png" alt="Color Palette" width="500" height="150" /> |
 
