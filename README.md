@@ -22,7 +22,7 @@ I’m currently an Information Systems student, passionate about graphics progra
       <img src="https://skillicons.dev/icons?i=azure,aws,nginx&perline=8" alt="Cloud & Infrastructure" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,python,r,dart,php&perline=8" alt="Programming Languages" />
+      <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,ts,js,python,r,dart,php&perline=8" alt="Programming Languages" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=spring,express,dotnet,nodejs&perline=8" alt="Backend Frameworks" />
